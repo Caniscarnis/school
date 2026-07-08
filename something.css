@@ -1,0 +1,13 @@
+@charset "utf-8";
+body {
+    background-color: #38293d;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+} 
+header {
+    color: #be98c9;
+    font-size:large;
+    text-align: center;
+    text-shadow: 0px 3px 6px;
+}
